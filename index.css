@@ -1,0 +1,11 @@
+.sh{
+  height: 500px;
+  width: 400px;
+  background-color: brown;
+  
+}
+label,input,button{
+  padding: 5px;
+  margin-top: 50px;
+  font-weight: bolder;
+}
